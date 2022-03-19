@@ -24,4 +24,4 @@ The client library code is available in `NFTStorageClient.cs`, and contains the 
 - **UploadDataFromStringUnityWebrequest:** Uploads a new file based on a file unityWebrequest with upload progress
 
 # Important
-this code just edited And only to help other developers **Main Sourse : https://github.com/filipepolizel/unity-nft-storage#Edited
+this code just edited And only to help other developers **Main Sourse** : https://github.com/filipepolizel/unity-nft-storage#Edited
